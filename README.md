@@ -1,16 +1,8 @@
-# Project1 - City Simulation
+# Group Project - SimCity
 
-## Group Number:
-210-4
+Class: Foundamentals of Data Structures and Algorithms
 
-## Group Members:
-Gunnar Hayes - gnh0026
-Daniel Podgornyy - dp1376
-Nicholas Bruner - nlb0118
-Anthony Chrane - amc0474
-Rylie Nabors - ren0068
-
-NOTE:
+## NOTE:
 MAKE SURE REGION FILE,COMPILATION FILE, AND ALL SOURCE CODE FILES ARE IN THE SAME FOLDER/DIRECTORY
 
 ## Enter Compilation/Run instructions below:
